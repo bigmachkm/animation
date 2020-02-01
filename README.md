@@ -1,3 +1,7 @@
-# My Custom animation file for projet use
+# My Custom CSS Stylesheets
 
-Quick access to my custom animations that can be added to as and when required
+1. Animation file for custom animation use in projects
+
+2. Custom CSS files that can be used in conjuction with bootstrap or other css libraries
+
+   2.1 Custom margin and padding options using sre-m or sre-p .......
