@@ -6,4 +6,6 @@
 
    2.1 Custom margin and padding options using sre-m or sre-p .......<br />
 
-   2.2 Files and links to server Bootstrap from directories instead of CDN's
+   2.2 Animation for common animation css
+
+   2.3 custom-css prefixes - common prefixes
