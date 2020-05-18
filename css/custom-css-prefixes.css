@@ -1,0 +1,8 @@
+/* Enlarge smoothly on hover */
+.sre-enlarge {
+  transition: all 0.2s ease-in-out;
+}
+
+.sre-enlarge:hover {
+  transform: scale(1.1);
+}
