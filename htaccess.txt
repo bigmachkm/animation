@@ -1,9 +1,0 @@
-In order for node to work with linux environment, this code is needed within the .htaccess file
-
-/testnode is the directory for a subfolder
-/ would be the route directory
-
-RewriteRule ^testnode/$ http://127.0.0.1:4000/ [P,L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^testnode/(.*)$ http://127.0.0.1:4000/$1 [P,L]
