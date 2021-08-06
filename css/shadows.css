@@ -1,0 +1,20 @@
+ /* Shadows using custom properties */
+:root {
+ --box-shadow: 0 .5rem 1rem rgba(1, 1, 1, 0.15);
+ --box-shadow-sm: 0 .125rem .25rem rgba(1, 1, 1, .075);
+ --box-shadow-lge: 0 1rem 3rem rgba(1, 1, 1, .175);
+}
+
+/* CSS Shadow */
+
+.shadow-small {
+    box-shadow: 0 .125rem .25rem rgba(1, 1, 1, .075);
+}
+
+.shadow {
+    box-shadow: 0 .5rem 1rem rgba(1, 1, 1, 0.15);
+}
+
+.shadow-large {
+ box-shadow: 0 1rem 3rem rgba(1, 1, 1, .175);
+}
