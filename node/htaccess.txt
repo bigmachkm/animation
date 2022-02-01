@@ -1,4 +1,4 @@
-## In order for node to work with linux environment, this code is needed within the .htaccess file
+## In order for node to work in linux environment, this code is needed within the .htaccess file
 
 ## /testnode is the directory for a subfolder
 ## / would be the route directory
